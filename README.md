@@ -6,7 +6,7 @@
 ### 2009
 #### Artifact-free High Dynamic Range Imaging [[web]](http://alumni.soe.ucsc.edu/~orazio/deghost.html)
 ### 2010
-#### MOTION-BLUR-FREE EXPOSURE FUSION
+#### Motion-Blur-Free Exposure Fusion
 #### Ghost-Free High Dynamic Range Imaging [[web]](https://cv.snu.ac.kr/index.php/publication-international/)
 ### 2012
 #### Robust Patch-Based HDR Reconstruction of Dynamic Scenes [[web]](http://cvc.ucsb.edu/graphics/Papers/Sen2012_PatchHDR/)

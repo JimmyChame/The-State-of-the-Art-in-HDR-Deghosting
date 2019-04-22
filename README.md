@@ -1,8 +1,6 @@
 # The-State-of-the-Art-in-HDR-Deghosting
 
-![图片1](C:\Users\Chame\Desktop\图片1.png)
-
-
+![overview](E:\Documents\GitHub\The-State-of-the-Art-in-HDR-Deghosting\overview.png)
 
 ## Method
 ### 1997

@@ -1,5 +1,9 @@
 # The-State-of-the-Art-in-HDR-Deghosting
 
+![图片1](C:\Users\Chame\Desktop\图片1.png)
+
+
+
 ## Method
 ### 1997
 #### Recovering High Dynamic Range Radiance Maps from Photographs [[web]](https://www.pauldebevec.com/Research/HDR/)

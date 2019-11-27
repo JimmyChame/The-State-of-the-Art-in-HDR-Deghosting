@@ -18,7 +18,7 @@ Most of works have codes available.
 ##### Robust Multi-Exposure Image Fusion A Structural Patch Decomposition Approach (K Ma, H Li, et al. 2017) [[web]](https://ece.uwaterloo.ca/~k29ma/)
 
 ### Optical-flow-based
-##### Freehand HDR Imaging of Moving Scenes with Simultaneous Resolution Enhancement (H Zimmer, A Bruhn, J Weickert) [[web]](https://www.mia.uni-saarland.de/Research/SR-HDR/index.shtml)
+##### Freehand HDR Imaging of Moving Scenes with Simultaneous Resolution Enhancement (H Zimmer, A Bruhn, J Weickert. 2011) [[web]](https://www.mia.uni-saarland.de/Research/SR-HDR/index.shtml)
 
 
 ### PatchMatch-Based

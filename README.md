@@ -17,6 +17,10 @@ Most of works have codes available.
 ##### Super High Dynamic Range Imaging (T Hayami, M Tanaka, et al. 2014) [[web]](http://www.ok.sc.e.titech.ac.jp/res/SHDR/SHDR.html)
 ##### Robust Multi-Exposure Image Fusion A Structural Patch Decomposition Approach (K Ma, H Li, et al. 2017) [[web]](https://ece.uwaterloo.ca/~k29ma/)
 
+### Optical-flow-based
+##### Freehand HDR Imaging of Moving Scenes with Simultaneous Resolution Enhancement (H Zimmer, A Bruhn, J Weickert) [[web]](https://www.mia.uni-saarland.de/Research/SR-HDR/index.shtml)
+
+
 ### PatchMatch-Based
 ##### Robust Patch-Based HDR Reconstruction of Dynamic Scenes (P Sen, NK Kalantari, et al. 2012) [[web]](http://cvc.ucsb.edu/graphics/Papers/Sen2012_PatchHDR/)
 ##### HDR Deghosting How to deal with Saturation (J Hu, O Gallo, et al. 2013) [[web]](http://www.cs.duke.edu/~junhu/CVPR2013/)
@@ -26,13 +30,14 @@ Most of works have codes available.
 ##### Ghost-Free High Dynamic Range Imaging via Rank Minimization (C Lee, Y Li, et al. 2014) [[web]](http://cilab.pknu.ac.kr/research/rm_hdr.html)
 ##### Robust High Dynamic Range Imaging by Rank Minimization (TH Oh, JY Lee, et al. 2015) [[web]](http://web.mit.edu/taehyun/www/Research/RHDR/RHDR.htm)
 
-### Google HDR+
-##### Burst photography for high dynamic range and low-light imaging on mobile cameras (SW Hasinoff, D Sharlet, et al. 2016) [[web]](https://hdrplusdata.org/)
-
 ### Deep Learning
 ##### Deep High Dynamic Range Imaging of Dynamic Scenes (NK Kalantari, R Ramamoorthi. 2017) [[web]](http://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
 ##### End-to-End Deep HDR Imaging with Large Foreground Motions (S Wu, J Xu, et al. 2017) (Deep High Dynamic Range Imaging with Large Foreground Motions 2018) [[web]](https://elliottwu.com/projects/hdr/)
 ##### Attention-guided Network for Ghost-free High Dynamic Range Imaging (Q Yan, D Gong, et al. 2018) [[arxiv]](https://arxiv.org/abs/1904.10293v1)
+
+### Google Project
+##### (HDR+) Burst photography for high dynamic range and low-light imaging on mobile cameras (SW Hasinoff, D Sharlet, et al. 2016) [[web]](https://hdrplusdata.org/)
+##### (Night sight) Handheld Mobile Photography in Very Low Light (O Liba, K Murthy, et al. 2019) [[web]](https://github.com/google/night-sight/tree/master/docs)
 
 
 ## Survey and Evaluate

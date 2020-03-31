@@ -33,7 +33,7 @@ Most of works have codes available.
 ### Deep Learning
 ##### Deep High Dynamic Range Imaging of Dynamic Scenes (NK Kalantari, R Ramamoorthi. 2017) [[web]](http://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
 ##### End-to-End Deep HDR Imaging with Large Foreground Motions (S Wu, J Xu, et al. 2017) (Deep High Dynamic Range Imaging with Large Foreground Motions 2018) [[web]](https://elliottwu.com/projects/hdr/)
-##### Attention-guided Network for Ghost-free High Dynamic Range Imaging (Q Yan, D Gong, et al. 2018) [[arxiv]](https://arxiv.org/abs/1904.10293v1)
+##### Attention-guided Network for Ghost-free High Dynamic Range Imaging (Q Yan, D Gong, et al. 2018) [[web]](https://donggong1.github.io/ahdr.html)
 
 ### Google Project
 ##### (HDR+) Burst photography for high dynamic range and low-light imaging on mobile cameras (SW Hasinoff, D Sharlet, et al. 2016) [[web]](https://hdrplusdata.org/)

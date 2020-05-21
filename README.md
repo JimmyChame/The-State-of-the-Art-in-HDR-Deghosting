@@ -16,6 +16,7 @@ Most of works have codes available.
 ##### Ghost-Free High Dynamic Range Imaging (YS Heo, KM Lee, et al. 2010) [[web]](https://cv.snu.ac.kr/index.php/publication-international/)
 ##### Super High Dynamic Range Imaging (T Hayami, M Tanaka, et al. 2014) [[web]](http://www.ok.sc.e.titech.ac.jp/res/SHDR/SHDR.html)
 ##### Robust Multi-Exposure Image Fusion A Structural Patch Decomposition Approach (K Ma, H Li, et al. 2017) [[web]](https://ece.uwaterloo.ca/~k29ma/)
+##### Fast Multi-Scale Structural Patch Decomposition for Multi-Exposure Image Fusion (H Li, K Ma, et al. 2020) [[web]](https://github.com/xiaohuiben/fmmef-TIP-2020)
 
 ### Optical-flow-based
 ##### Freehand HDR Imaging of Moving Scenes with Simultaneous Resolution Enhancement (H Zimmer, A Bruhn, J Weickert. 2011) [[web]](https://www.mia.uni-saarland.de/Research/SR-HDR/index.shtml)

@@ -36,6 +36,7 @@ Most of works have codes available.
 ##### End-to-End Deep HDR Imaging with Large Foreground Motions (S Wu, J Xu, et al. 2017) (Deep High Dynamic Range Imaging with Large Foreground Motions 2018) [[web]](https://elliottwu.com/projects/hdr/)
 ##### Attention-guided Network for Ghost-free High Dynamic Range Imaging (Q Yan, D Gong, et al. 2018) [[web]](https://donggong1.github.io/ahdr.html)
 ##### Towards Practical and Efficient High-Resolution HDR Deghosting with CNN (K. Ram Prabhakar, Susmit Agrawal, et al. 2020) [[web]](http://val.serc.iisc.ernet.in/HDR/eccv20/)
+##### NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results [[web]](https://arxiv.org/pdf/2106.01439.pdf)
 
 ### Google Project
 ##### (HDR+) Burst photography for high dynamic range and low-light imaging on mobile cameras (SW Hasinoff, D Sharlet, et al. 2016) [[web]](https://hdrplusdata.org/)
@@ -50,4 +51,5 @@ Most of works have codes available.
 ##### The State of the Art in HDR Deghosting A Survey and Evaluation (OT Tursun, AO Akyüz, et al. 2015)
 ### Benchmark
 ##### http://www.vsislab.com/projects/IPM/HDR/project.html
+##### NTIRE 2021 Challenge on High Dynamic Range Imaging: https://data.vision.ee.ethz.ch/cvl/ntire21/
 

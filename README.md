@@ -37,7 +37,7 @@ Most of works have codes available.
 ##### End-to-End Deep HDR Imaging with Large Foreground Motions (S Wu, J Xu, et al. 2017) (Deep High Dynamic Range Imaging with Large Foreground Motions. ECCV 2018) [[web]](https://elliottwu.com/projects/hdr/)
 ##### Attention-guided Network for Ghost-free High Dynamic Range Imaging (Q Yan, D Gong, et al. 2018) [[web]](https://donggong1.github.io/ahdr.html)
 ##### Towards Practical and Efficient High-Resolution HDR Deghosting with CNN (K. Ram Prabhakar, Susmit Agrawal, et al. CVPR 2020) [[web]](http://val.serc.iisc.ernet.in/HDR/eccv20/)
-##### Deep HDR Imaging via A Non-local Network (Q Yan, L Zhang, et al. TIP 2020) [[{paper]](https://qingsenyangit.github.io/publication/tip20/)
+##### Deep HDR Imaging via A Non-local Network (Q Yan, L Zhang, et al. TIP 2020) [[paper]](https://qingsenyangit.github.io/publication/tip20/)
 ##### NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results [[web]](https://arxiv.org/pdf/2106.01439.pdf)
 ##### ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging (Zhen Liu, Wenjie Lin, et al. CVPRW 2021) [[github]](https://github.com/liuzhen03/ADNet)
 
@@ -51,8 +51,8 @@ Most of works have codes available.
 ##### HDR-VDP-2: A calibrated visual metric for visibility and quality predictions in all luminance conditions (R Mantiuk, KJ Kim, et al. ToG 2011) [[web]](https://www.cs.ubc.ca/nest/imager/tr/2011/Mantiuk_HDR-VDP-2/)
 ##### An Objective Deghosting Quality Metric for HDR Images (OT Tursun, AO Akyüz, et al. Eurographics 2016) [[web]](https://user.ceng.metu.edu.tr/~akyuz/files/eg2016/index.html)
 ### Survey
-##### The State of the Art in HDR Deghosting A Survey and Evaluation (OT Tursun, AO Akyüz, et al. 2015) [[{paper]](https://web.cs.hacettepe.edu.tr/~erkut/publications/HDR-deghosting-star.pdf)
-##### Deep Learning for HDR Imaging: State-of-the-Art and Future Trends (Lin Wang, Kuk-Jin Yoon. 2021) [[{paper]](https://arxiv.org/pdf/2110.10394.pdf)
+##### The State of the Art in HDR Deghosting A Survey and Evaluation (OT Tursun, AO Akyüz, et al. 2015) [[paper]](https://web.cs.hacettepe.edu.tr/~erkut/publications/HDR-deghosting-star.pdf)
+##### Deep Learning for HDR Imaging: State-of-the-Art and Future Trends (Lin Wang, Kuk-Jin Yoon. 2021) [[paper]](https://arxiv.org/pdf/2110.10394.pdf)
 ### Benchmark
 ##### http://www.vsislab.com/projects/IPM/HDR/project.html
 ##### NTIRE 2021 Challenge on High Dynamic Range Imaging:[[web]](https://data.vision.ee.ethz.ch/cvl/ntire21/)

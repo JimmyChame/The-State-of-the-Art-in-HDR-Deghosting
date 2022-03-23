@@ -38,7 +38,7 @@ Most of works have codes available.
 ##### Attention-guided Network for Ghost-free High Dynamic Range Imaging (Q Yan, D Gong, et al. 2018) [[web]](https://donggong1.github.io/ahdr.html)
 ##### Towards Practical and Efficient High-Resolution HDR Deghosting with CNN (K. Ram Prabhakar, Susmit Agrawal, et al. CVPR 2020) [[web]](http://val.serc.iisc.ernet.in/HDR/eccv20/)
 ##### Deep HDR Imaging via A Non-local Network (Q Yan, L Zhang, et al. TIP 2020) [[paper]](https://qingsenyangit.github.io/publication/tip20/)
-##### NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results [[web]](https://arxiv.org/pdf/2106.01439.pdf)
+##### NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results [[paper]](https://arxiv.org/pdf/2106.01439.pdf)
 ##### ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging (Zhen Liu, Wenjie Lin, et al. CVPRW 2021) [[github]](https://github.com/liuzhen03/ADNet)
 
 ### Google Project

@@ -55,5 +55,6 @@ Most of works have codes available.
 ##### Deep Learning for HDR Imaging: State-of-the-Art and Future Trends (Lin Wang, Kuk-Jin Yoon. 2021) [[paper]](https://arxiv.org/pdf/2110.10394.pdf)
 ### Benchmark
 ##### http://www.vsislab.com/projects/IPM/HDR/project.html
-##### NTIRE 2021 Challenge on High Dynamic Range Imaging:[[web]](https://data.vision.ee.ethz.ch/cvl/ntire21/)
+##### NTIRE 2021 Challenge on High Dynamic Range Imaging:[[web]](https://data.vision.ee.ethz.ch/cvl/ntire21/)[[paper]](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Perez-Pellitero_NTIRE_2021_Challenge_on_High_Dynamic_Range_Imaging_Dataset_Methods_CVPRW_2021_paper.html)
+##### NTIRE 2022 Challenge on High Dynamic Range Imaging:[[web]](https://data.vision.ee.ethz.ch/cvl/ntire22/)[[paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Perez-Pellitero_NTIRE_2022_Challenge_on_High_Dynamic_Range_Imaging_Methods_and_CVPRW_2022_paper.pdf)
 

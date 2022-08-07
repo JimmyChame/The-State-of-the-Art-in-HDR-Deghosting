@@ -40,6 +40,7 @@ Most of works have codes available.
 ##### Deep HDR Imaging via A Non-local Network (Q Yan, L Zhang, et al. TIP 2020) [[paper]](https://qingsenyangit.github.io/publication/tip20/)
 ##### NTIRE 2021 Challenge on High Dynamic Range Imaging: Dataset, Methods and Results [[paper]](https://arxiv.org/pdf/2106.01439.pdf)
 ##### ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging (Zhen Liu, Wenjie Lin, et al. CVPRW 2021) [[github]](https://github.com/liuzhen03/ADNet)
+##### Multi-Bracket High Dynamic Range Imaging with Event Cameras (Nico Messikommer, Stamatios Georgoulis, et al. CVPR Workshop 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Messikommer_Multi-Bracket_High_Dynamic_Range_Imaging_With_Event_Cameras_CVPRW_2022_paper.pdf)
 
 ### Google Project
 ##### (HDR+) Burst photography for high dynamic range and low-light imaging on mobile cameras (SW Hasinoff, D Sharlet, et al. ToG 2016) [[web]](https://hdrplusdata.org/)

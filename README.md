@@ -42,6 +42,7 @@ Most of works have codes available.
 ##### ADNet: Attention-guided Deformable Convolutional Network for High Dynamic Range Imaging (Zhen Liu, Wenjie Lin, et al. CVPRW 2021) [[github]](https://github.com/liuzhen03/ADNet)
 ##### NTIRE 2022 Challenge on High Dynamic Range Imaging: Methods and Results [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Perez-Pellitero_NTIRE_2022_Challenge_on_High_Dynamic_Range_Imaging_Methods_and_CVPRW_2022_paper.pdf)
 ##### Multi-Bracket High Dynamic Range Imaging with Event Cameras (Nico Messikommer, Stamatios Georgoulis, et al. CVPRW 2022)[[paper]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Messikommer_Multi-Bracket_High_Dynamic_Range_Imaging_With_Event_Cameras_CVPRW_2022_paper.pdf)
+##### UltraFusion: Ultra High Dynamic Imaging using Exposure Fusion (Zixuan Chen, Yujin Wang, et al. CVPR 2025) [[web]](https://ultrafusion.openxlab.org.cn/home)
 
 ### Google Project
 ##### (HDR+) Burst photography for high dynamic range and low-light imaging on mobile cameras (SW Hasinoff, D Sharlet, et al. ToG 2016) [[web]](https://hdrplusdata.org/)
